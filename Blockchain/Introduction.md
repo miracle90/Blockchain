@@ -1,4 +1,5 @@
 # Blockchain
+[原文链接](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
 ### keywords: 分布式数据库、Hash、比特币、挖矿、难度系数……
 
 ## 一、区块链的本质
