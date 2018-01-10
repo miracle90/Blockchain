@@ -1,4 +1,4 @@
-# Block-Chain
+# Blockchain
 ### keywords: 比特币、挖矿
 
 ### 一、区块链的本质
